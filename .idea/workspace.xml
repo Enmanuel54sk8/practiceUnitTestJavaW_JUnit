@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="188e7c53-561d-4089-89cf-628612c82435" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calculadora.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CalculadoraCasio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraCasioTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraCasioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AssertTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Calculadora.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculadoraTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AssertTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalculadoraCasio.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculadoraCasioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculadoraCasioTest2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="414" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeUT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeUT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550117164528" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraCasioTest2">
+    <configuration name="CalculadoraCasioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraCasioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraCasioTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraCasioTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraCasioTest.testOperacionOptima" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraCasioTest" />
+      <option name="METHOD_NAME" value="testOperacionOptima" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraCasioTest.tetsDivDosNumerosSiendoDividendoDiferenteDeCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraCasioTest" />
+      <option name="METHOD_NAME" value="tetsDivDosNumerosSiendoDividendoDiferenteDeCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraCasioTest.tetsDivPorCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraCasioTest" />
+      <option name="METHOD_NAME" value="tetsDivPorCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraCasioTest2" />
+        <item itemvalue="JUnit.CalculadoraCasioTest" />
+        <item itemvalue="JUnit.CalculadoraCasioTest.testOperacionOptima" />
+        <item itemvalue="JUnit.CalculadoraCasioTest.tetsDivDosNumerosSiendoDividendoDiferenteDeCero" />
+        <item itemvalue="JUnit.CalculadoraCasioTest.tetsDivPorCero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188e7c53-561d-4089-89cf-628612c82435" name="Default Changelist" comment="" />
+      <created>1550030226734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550030226734</updated>
+      <workItem from="1550030237155" duration="9860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculadoraCasioTest_tetsDivDosNumerosSiendoDividendoDiferenteDeCero - 2019.02.13 at 19h 11m 09s.xml">
+      <configuration name="CalculadoraCasioTest.tetsDivDosNumerosSiendoDividendoDiferenteDeCero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest_tetsDivDosNumerosSiendoDividendoDiferenteDeCero - 2019.02.13 at 19h 12m 32s.xml">
+      <configuration name="CalculadoraCasioTest.tetsDivDosNumerosSiendoDividendoDiferenteDeCero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest_testOperacionOptima - 2019.02.13 at 19h 15m 43s.xml">
+      <configuration name="CalculadoraCasioTest.testOperacionOptima" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 22m 08s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 23m 01s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 23m 46s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 25m 50s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 26m 45s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest - 2019.02.13 at 19h 41m 53s.xml">
+      <configuration name="CalculadoraCasioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculadoraCasioTest2 - 2019.02.13 at 19h 42m 23s.xml">
+      <configuration name="CalculadoraCasioTest2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9860000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.806874" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.91325694" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AssertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalculadoraCasio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraCasioTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoraCasioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
